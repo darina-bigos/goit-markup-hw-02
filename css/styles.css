@@ -74,6 +74,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .page-button:hover {
@@ -91,7 +92,6 @@ a {
 }
 
 .section-advant .advant-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -121,7 +121,6 @@ a {
   color: #2e2f42;
 }
 .team .text-team {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -141,7 +140,6 @@ a {
 }
 
 .portfolio .portfolio-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -162,7 +160,6 @@ a {
   color: #f4f4fd;
 }
 .footer .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
